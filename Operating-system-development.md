@@ -36,3 +36,4 @@ Contents to come..
 * [X86 Opcode and Instruction Reference](http://ref.x86asm.net/)
 * [Context Switching on X86](http://samwho.co.uk/blog/2013/06/01/context-switching-on-x86/)
 * [Rust's __morestack implementation](https://github.com/mozilla/rust/blob/master/src/rt/arch/i386/morestack.S)
+* [A comparison of operating systems written in Rust](https://github.com/flosse/rust-os-comparison)
